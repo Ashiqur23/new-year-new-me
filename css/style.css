@@ -103,13 +103,13 @@ header{
 .third-content{
     width: 60%;
 }
-.third-content{
-    width: 60%;
-}
 .third-content p{
     width: 80%;
     margin: 15px 0px;
     line-height: 25px;
+}
+.third-content h1{
+    font-size: 32px;
 }
 .third-section-span{
     font-weight: 700;
@@ -167,15 +167,15 @@ header{
     width: 100%;
     background-image: url("../images/watch.png");
     background-size: cover;
-    background-position: center;
+    background-position: start;
     background-repeat: no-repeat;
-    height: 170px;
+    height: 190px;
     border-radius: 8px;
     margin-bottom: 100px;
 }
 .positive-gradient{
     background-image: linear-gradient(90deg, rgb(6, 185, 255) 0%, rgba(34,210,202,0) 100%, rgba(9,19,121,1) 100%);
-    height: 170px;
+    height: 190px;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
@@ -186,7 +186,7 @@ header{
     color: #fff;
     width: 25%;
     padding-left: 25px;
-    margin: 30px 0px 0px 50px;
+    margin: 40px 0px 0px 50px;
 }
 .positive-gradient button{
     margin: 10px 0px 0px 75px;
